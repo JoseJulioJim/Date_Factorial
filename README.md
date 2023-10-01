@@ -7,3 +7,5 @@ Parcial 2 Práctica 6
 Parcial 2 Práctica 7
 
 [Link](factorial.js)
+
+[GitHubPages](https://josejuliojim.github.io/Date_Factorial/)
